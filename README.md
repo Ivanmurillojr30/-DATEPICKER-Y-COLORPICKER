@@ -8,7 +8,9 @@
 - **ColorPicker**: Permite al usuario seleccionar un color.
 - **Botón Confirmar**: Imprime la fecha y el color seleccionados en la consola y los muestra en la interfaz de la aplicación.
   
-#ilustracion
+  
+#ILUSTRACION
+
 ![image](https://github.com/Ivanmurillojr30/-DATEPICKER-Y-COLORPICKER/assets/168851753/cf5f243e-ac3d-4728-99cc-88b1268b46f7)
 
 ![image](https://github.com/Ivanmurillojr30/-DATEPICKER-Y-COLORPICKER/assets/168851753/c7ffb9cd-da7e-4d9e-b0e7-aae8af9bb692)
